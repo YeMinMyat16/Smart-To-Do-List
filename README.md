@@ -37,4 +37,3 @@ This application uses the Web Storage API (`localStorage`) to persist your tasks
 
 ---
 
-Developed with ❤️ as a Focus-Driven Tool.
