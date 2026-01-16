@@ -1,5 +1,7 @@
 # Smart To-Do List
 
+**[🚀 Live Demo](https://yeminmyat16.github.io/Smart-To-Do-List/)**
+
 A modern, responsive, and functional To-Do List application built with vanilla HTML, CSS, and JavaScript.
 
 ## ✨ Features
